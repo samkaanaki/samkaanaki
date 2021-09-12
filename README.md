@@ -1,6 +1,6 @@
-### Eh up! 👋
+## Eh up! 👋
 
-## I'm Sam and thanks for checking out my GitHub profile.
+### I'm Sam and thanks for checking out my GitHub profile.
 
 <!--
 **samkaanaki/samkaanaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
