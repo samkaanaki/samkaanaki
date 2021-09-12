@@ -1,8 +1,9 @@
-## Eh up! 👋
+## Eh up! 👋 I'm Sam and thanks for checking out my GitHub profile.
 
-### I'm Sam and thanks for checking out my GitHub profile.
+### Where it began
+* I successfully completed the renowned Northcoders full stack development bootcamp at the beginning of 2021.
 
-#### Where it began
+
 
 <!--
 **samkaanaki/samkaanaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
