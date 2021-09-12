@@ -10,7 +10,7 @@
 ### Where am I now?
 * Working for a software house in Leeds, West Yorkshire. I'm working with a similar stack outlined above, but have been lucky enough to learn Feathers.js, MobX, MySQL on the job.
 
-[3]: https://www.linkedin.com/in/sam-aki-081a70173/
+
 
 <!--
 **samkaanaki/samkaanaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
