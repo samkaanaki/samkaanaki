@@ -8,18 +8,18 @@
 * Working as an Associate Consultant Software Engineer with Infinity Works (part of Accenture) in Leeds. 
 
 ### What tech/tools do I have experience with?
-• Languages - TypeScript, JavaScript
-• Backend - Node, Express, Feathers, RESTful API design, MVC architecture
-• Database - SQL, PostgreSQL, MySQL, Knex, Sequelize, Prisma
-• Cloud - AWS (S3, Lambda, CloudWatch)
-• Frontend - React, MobX & MobX State Tree, Redux, Styled Components, HTML5, CSS3, Swagger UI, Atlaskit, UX-focussed design principles
-• Testing - Jest, SuperTest, TDD
-• Source control - Git, GitHub, BitBucket
-• Agile - Scrum, Kanban, working to 2-week sprints, daily Stand-ups
-• Project Management - Jira, Confluence, Trello
-• Pair programming
-• Remote collaboration - Slack, Zoom, Discord
-• Direct client engagement to discuss potential improvements to the product with Head of Product, Product Managers, QA/Testers, BAs, other Engineers
+* Languages - TypeScript, JavaScript
+* Backend - Node, Express, Feathers, RESTful API design, MVC architecture
+* Database - SQL, PostgreSQL, MySQL, Knex, Sequelize, Prisma
+* Cloud - AWS (S3, Lambda, CloudWatch)
+* Frontend - React, MobX & MobX State Tree, Redux, Styled Components, HTML5, CSS3, Swagger UI, Atlaskit, UX-focussed design principles
+* Testing - Jest, SuperTest, TDD
+* Source control - Git, GitHub, BitBucket
+* Agile - Scrum, Kanban, working to 2-week sprints, daily Stand-ups
+* Project Management - Jira, Confluence, Trello
+* Pair programming
+* Remote collaboration - Slack, Zoom, Discord
+* Direct client engagement to discuss potential improvements to the product with Head of Product, Product Managers, QA/Testers, BAs, other Engineers
 
 
 <!--
