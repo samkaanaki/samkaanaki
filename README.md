@@ -1,4 +1,4 @@
-## Eh up! 👋 I'm Sam and thanks for checking out my GitHub profile.
+## Eh up! 👋 I'm Sam and thanks for checking out my profile.
 ---
 
 ### Where it began
