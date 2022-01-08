@@ -5,7 +5,7 @@
 * I successfully completed the renowned Northcoders full stack development bootcamp at the beginning of 2021. During my time I gained hands-on experience with JavaScript, Node.js, React.js, SQL, PostgreSQL, Knex.js, Express.js, Jest, SuperTest, HTML5, CSS3, RESTful API development, Git and development best practices like Pair Programming and TDD.
 
 ### Where am I now?
-* Working as an Associate Consultant Software Engineer with Infinity Works (part of Accenture) in Leeds. 
+* Working as an Associate Consultant Software Engineer with Infinity Works (part of Accenture) in Leeds. I'm currently helping develop a financing/lending system for a very well known MNC.
 
 ### What tech/tools do I have experience with?
 * Languages - TypeScript, JavaScript
