@@ -2,7 +2,7 @@
 ---
 
 ### Where am I now?
-* Working as an Associate Consultant Software Engineer with Infinity Works (part of Accenture) in Leeds. I'm currently helping develop a flexible financing system for a very well known MNC used by many established retailers in a B2B and B2C setting.
+* Working as an Associate Consultant Software Engineer with Infinity Works (part of Accenture) in Leeds. I'm currently helping develop a flexible financing system for a very well known MNC currently utilised by many established retailers.
 
 ### Where it began
 * I successfully completed the renowned Northcoders full stack development bootcamp at the beginning of 2021. During my time I gained hands-on experience with JavaScript, Node.js, React.js, SQL, PostgreSQL, Knex.js, Express.js, Jest, SuperTest, HTML5, CSS3, RESTful API development, Git and development best practices like Pair Programming and TDD.
