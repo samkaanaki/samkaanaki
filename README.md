@@ -18,10 +18,10 @@
 * CircleCI
 * Source control - Git, GitHub, BitBucket
 * Agile - Scrum, Kanban, working to 2-week sprints, daily Stand-ups
-* Project Management - Jira, Confluence, Trello
+* Workflow Management - Jira, Confluence, Trello, Miro
 * Pair programming
 * Remote collaboration - Slack, Zoom, Discord
-* Direct client engagement to discuss potential improvements to the product with Head of Product, Product Managers, QA/Testers, BAs, other Engineers
+* Direct client engagement to discuss potential improvements to the product with Head of Product, Product Managers, QA/Testers, BAs, other Engineers/Developers
 
 
 <!--
