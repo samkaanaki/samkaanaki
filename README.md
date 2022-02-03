@@ -1,4 +1,4 @@
-## Eh up! 👋 I'm Sam and thanks for checking out my profile.
+## Eh up! 👋
 ---
 
 ### Where am I now?
