@@ -7,7 +7,6 @@
 ### Where it began
 * I successfully completed the renowned Northcoders full stack development bootcamp at the start of 2021. During my time I gained hands-on experience with JavaScript, Node, React, SQL, PostgreSQL, Express, Knex (ORM), Jest, SuperTest, HTML5, CSS3, RESTful API development, Git/GitHub and development best practices like Pair Programming and TDD.
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### What tech/tools do I have experience with?
 * Languages - TypeScript, JavaScript
