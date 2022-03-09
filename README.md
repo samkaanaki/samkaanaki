@@ -14,7 +14,7 @@
 * Database - SQL, PostgreSQL, MySQL, Knex, Sequelize, Prisma
 * Cloud - AWS (S3, Lambda, CloudWatch, CloudFormation, EC2, ECS)
 * Frontend - React, MobX & MobX State Tree, Redux, Styled Components, HTML5, CSS3, Swagger UI, Atlaskit, UX-focussed design principles
-* Testing - Jest, SuperTest, TDD
+* Testing - Jest, SuperTest, Enzyme, React Testing Library, TDD
 * CI/CD - CircleCI
 * Source control - Git, GitHub, BitBucket
 * Agile - Scrum, Kanban, working to 2-week sprints, daily Stand-ups
