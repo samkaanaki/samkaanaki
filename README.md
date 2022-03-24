@@ -23,6 +23,11 @@
 * Remote collaboration - Slack, Google Meet, Zoom, Discord
 * Direct client engagement to discuss potential improvements to the product with Head of Product/Product Owner, Product Managers, QA/Testers, Business Analysts and of course other Engineers
 
+### What am I wanted to learn/develop?
+* Gain more confidence with key AWS services
+* Become a better, cleaner and more efficient TS/JS developer
+* Learn Python and Shell Scripting to start automating processes more
+
 
 <!--
 **samkaanaki/samkaanaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
