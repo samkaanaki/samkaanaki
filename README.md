@@ -12,22 +12,16 @@
 * Languages - TypeScript, JavaScript
 * Backend - Node, Express, Feathers, RESTful API development, MVC architecture
 * Database - SQL, PostgreSQL, MySQL, Knex, Sequelize, Prisma
-* Cloud - AWS (S3, Lambda, CloudWatch, CloudFormation, EC2, ECS)
+* Cloud - AWS (S3, Lambda, CloudWatch, CloudFormation, EC2, ECS, RDS)
 * Frontend - React, MobX & MobX State Tree, Redux, Styled Components, HTML5, CSS3, Swagger UI, Atlaskit, UX-focussed design principles
 * Testing - Jest, SuperTest, Enzyme, React Testing Library, TDD
 * CI/CD - CircleCI
-* Source control - Git, GitHub, BitBucket
+* Source/Version control - Git, GitHub, BitBucket
 * Agile - Scrum, Kanban, working to 2-week sprints, daily Stand-ups
-* Workflow Management - Jira, Confluence, Trello, Miro
+* Workflow/Project Management - Jira, Confluence, Trello, Miro
 * Pair programming
 * Remote collaboration - Slack, Google Meet, Zoom, Discord
-* Direct client engagement to discuss potential improvements to the product with Head of Product/Product Owner, Product Managers, QA/Testers, Business Analysts and of course other Engineers
-
-### What am I wanted to learn/develop?
-* Gain more confidence with key AWS services
-* Become a better, cleaner and more efficient TS/JS developer
-* Learn Python and Shell Scripting to start automating processes more
-
+* Direct client engagement - regular discussions with Head of Product/Product Owner, Product Managers, QA Engineers/Testers, Business Analysts and of course other Engineers 
 
 <!--
 **samkaanaki/samkaanaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
