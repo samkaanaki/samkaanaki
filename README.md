@@ -12,7 +12,7 @@
 * Languages - TypeScript, JavaScript
 * Backend - Node, Express, Feathers, RESTful API development, MVC architecture
 * Database - SQL, PostgreSQL, MySQL, Knex, Sequelize, Prisma
-* Cloud - AWS (S3, Lambda, CloudWatch, CloudFormation, EC2, ECS, RDS)
+* Cloud - AWS (S3, Lambda, CloudWatch, CloudFormation, EC2, ECS, Cognito, RDS (PGQL))
 * Frontend - React, MobX & MobX State Tree, Redux, Styled Components, HTML5, CSS3, Swagger UI, Atlaskit, UX-focussed design principles
 * Testing - Jest, SuperTest, Enzyme, React Testing Library, TDD
 * CI/CD - CircleCI
