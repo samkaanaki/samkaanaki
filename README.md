@@ -13,9 +13,10 @@
 * Backend - Node, Express, Feathers, RESTful API development, MVC architecture
 * Database - SQL, PostgreSQL, MySQL, Knex, Sequelize, Prisma
 * Cloud - AWS (S3, Lambda, CloudWatch, CloudFormation, EC2, ECS, Cognito, RDS (PGQL))
-* Frontend - React, MobX & MobX State Tree, Redux, Styled Components, HTML5, CSS3, Swagger UI, Atlaskit, UX-focussed design principles
 * Testing - Jest, SuperTest, Enzyme, React Testing Library, TDD
 * CI/CD - CircleCI
+* Containers - Docker, ECS
+* Frontend - React, MobX & MobX State Tree, Redux, Styled Components, HTML5, CSS3, Swagger UI, Atlaskit, UX-focussed design principles
 * Source/Version control - Git, GitHub, BitBucket
 * Agile - Scrum, Kanban, working to 2-week sprints, daily Stand-ups
 * Workflow/Project Management - Jira, Confluence, Trello, Miro
