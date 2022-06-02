@@ -14,9 +14,11 @@
 
 </p>
 
-- Languages - TypeScript, JavaScript </br>
+- Languages - TypeScript, JavaScript
+  </br>
   <a target=”_blank” href="https://www.typescriptlang.org/" title="TypeScript"><img src="tech-icons/typescript.png" /></a>
-  <a target=”_blank” href="https://www.javascript.com/" title="JavaScript"><img src="tech-icons/javascript.png" /></a> </br></br>
+  <a target=”_blank” href="https://www.javascript.com/" title="JavaScript"><img src="tech-icons/javascript.png" /></a>
+  </br></br>
 
 - Backend - Node, Express, Feathers, RESTful API development, MVC architecture
 
@@ -27,7 +29,10 @@
 - Containers - Docker, ECS
 - Frontend - React, MobX & MobX State Tree, Redux, Styled Components, HTML5, CSS3, Swagger UI, Atlaskit, UX-focussed design
 - Source/Version control - Git, GitHub, Bitbucket </br>
-  <a target=”_blank” href="https://www.typescriptlang.org/" title="Bitbucket"><img src="tech-icons/bitbucket.svg" /></a> </br>
+  <a target=”_blank” href="https://git-scm.com/" title="Git"><img src="tech-icons/git.png" /></a>
+  <a target=”_blank” href="https://github.com/" title="GitHub"><img src="tech-icons/github.png" /></a> </br>
+  </br>
+
 - Agile: Kanban, Scrum, working to 2 week sprints, daily stand-ups (occasionally leading them)
 - Workflow/Project Management - Jira, Confluence, Trello, Miro
 - Pair programming
