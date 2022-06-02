@@ -18,7 +18,7 @@
   </br>
   <a target=”_blank” href="https://www.typescriptlang.org/" title="TypeScript"><img src="tech-icons/typescript.png" /></a>
   <a target=”_blank” href="https://www.javascript.com/" title="JavaScript"><img src="tech-icons/javascript.png" /></a>
-  </br></br>
+  </br>
 
 - Backend - Node, Express, Feathers, RESTful API development, MVC architecture
 
