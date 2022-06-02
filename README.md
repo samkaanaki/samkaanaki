@@ -33,7 +33,6 @@
 - Frontend - React, MobX & MobX State Tree, Redux, Styled Components, HTML5, CSS3, Swagger UI, Atlaskit, UX-focussed design
   </br>
   <a target=”_blank” href="https://git-scm.com/" title="React"><img src="tech-icons/react.png" /></a>
-
   <a target=”_blank” href="https://git-scm.com/" title="CSS"><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png"></a>
 
   </br>
