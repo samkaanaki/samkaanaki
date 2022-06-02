@@ -28,7 +28,9 @@
 - Testing - Jest, SuperTest, Enzyme, React Testing Library, TDD
 - CI/CD - CircleCI
 - Containers - Docker, ECS
-  <a target=”_blank” href="https://git-scm.com/" title="Docker"><img src="tech-icons/docker.png" /></a></br>
+
+  <a target=”_blank” href="https://git-scm.com/" title="Docker"><img src="tech-icons/docker.png" /></a>
+
 - Frontend - React, MobX & MobX State Tree, Redux, Styled Components, HTML5, CSS3, Swagger UI, Atlaskit, UX-focussed design
 
   <a target=”_blank” href="https://git-scm.com/" title="React"><img src="tech-icons/react.png" /></a>
