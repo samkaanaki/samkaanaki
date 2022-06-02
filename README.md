@@ -34,8 +34,8 @@
   </br>
   <a target=”_blank” href="https://git-scm.com/" title="React"><img src="tech-icons/react.png" /></a>
 
-  <a target=”_blank” href="https://git-scm.com/" title="CSS"><img height="32px" width="32px" src="https://raw.githubusercontent.com/samkaanaki/samkaanaki/main/tech-icons/css3.png"></a>
-  <img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png">
+  <a target=”_blank” href="https://git-scm.com/" title="CSS"><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png"></a>
+
   </br>
 
 - Source/Version control - Git, GitHub, Bitbucket </br>
