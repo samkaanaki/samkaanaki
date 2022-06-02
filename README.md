@@ -16,6 +16,7 @@
 
 - Languages - TypeScript, JavaScript </br>
   <a target=”_blank” href="https://www.typescriptlang.org/" title="TypeScript"><img src="tech-icons/typescript.png" /></a>
+  <a target=”_blank” href="https://www.typescriptlang.org/" title="JavaScript"><img src="tech-icons/javascript.png" /></a> </br>
 - Backend - Node, Express, Feathers, RESTful API development, MVC architecture
 - Database - SQL, PostgreSQL, MySQL, Knex, Sequelize, Prisma
 - Cloud - AWS (S3, Lambda, CloudWatch, CloudFormation, EC2, ECS, Cognito, RDS (PGQL))
