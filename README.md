@@ -11,24 +11,25 @@
 ### The Tech
 
 <p align="center">
-
-    <img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" />
-
+    <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="tech-icons/typescript.png" /></a>
+    <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="tech-icons/typescript.png" /></a>
 </p>
-* Languages - TypeScript, JavaScript
-* Backend - Node, Express, Feathers, RESTful API development, MVC architecture
-* Database - SQL, PostgreSQL, MySQL, Knex, Sequelize, Prisma
-* Cloud - AWS (S3, Lambda, CloudWatch, CloudFormation, EC2, ECS, Cognito, RDS (PGQL))
-* Testing - Jest, SuperTest, Enzyme, React Testing Library, TDD
-* CI/CD - CircleCI
-* Containers - Docker, ECS
-* Frontend - React, MobX & MobX State Tree, Redux, Styled Components, HTML5, CSS3, Swagger UI, Atlaskit, UX-focussed design
-* Source/Version control - Git, GitHub, BitBucket
-* Agile: Kanban, Scrum, working to 2 week sprints, daily stand-ups (occasionally leading them)
-* Workflow/Project Management - Jira, Confluence, Trello, Miro
-* Pair programming
-* Remote collaboration - Slack, Google Meet, Zoom, Discord
-* Direct client engagement - regular discussions with Head of Product/Product Owner, Product Managers, QA Engineers/Testers, Business Analysts and of course other Engineers
+
+- Languages - TypeScript, JavaScript
+  <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="tech-icons/typescript.png" /></a>
+- Backend - Node, Express, Feathers, RESTful API development, MVC architecture
+- Database - SQL, PostgreSQL, MySQL, Knex, Sequelize, Prisma
+- Cloud - AWS (S3, Lambda, CloudWatch, CloudFormation, EC2, ECS, Cognito, RDS (PGQL))
+- Testing - Jest, SuperTest, Enzyme, React Testing Library, TDD
+- CI/CD - CircleCI
+- Containers - Docker, ECS
+- Frontend - React, MobX & MobX State Tree, Redux, Styled Components, HTML5, CSS3, Swagger UI, Atlaskit, UX-focussed design
+- Source/Version control - Git, GitHub, BitBucket
+- Agile: Kanban, Scrum, working to 2 week sprints, daily stand-ups (occasionally leading them)
+- Workflow/Project Management - Jira, Confluence, Trello, Miro
+- Pair programming
+- Remote collaboration - Slack, Google Meet, Zoom, Discord
+- Direct client engagement - regular discussions with Head of Product/Product Owner, Product Managers, QA Engineers/Testers, Business Analysts and of course other Engineers
 
 ### The Other Stuff
 
