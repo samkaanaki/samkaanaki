@@ -1,14 +1,20 @@
 ## Hey world <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="24px" height="24x">
 
+### The Present
 
-### The Present 
-* Working as a Software Engineer with Infinity Works (part of Accenture) in Leeds. I'm currently helping develop a flexible B2C financing product for a very well known MNC currently utilised by many established retailers.
+- Working as a Software Engineer with Infinity Works (part of Accenture) in Leeds. I'm currently helping develop a flexible B2C financing product for a very well known MNC currently utilised by many established retailers.
 
 ### The Past
-* I successfully completed the renowned Northcoders full stack development bootcamp at the start of 2021. During my time I gained hands-on experience with JavaScript, Node, React, SQL, PostgreSQL, Express, Knex (ORM), Jest, SuperTest, HTML5, CSS3, RESTful API development, Git/GitHub and development best practices like Pair Programming and TDD.
 
+- I successfully completed the renowned Northcoders full stack development bootcamp at the start of 2021. During my time I gained hands-on experience with JavaScript, Node, React, SQL, PostgreSQL, Express, Knex (ORM), Jest, SuperTest, HTML5, CSS3, RESTful API development, Git/GitHub and development best practices like Pair Programming and TDD.
 
 ### The Tech
+
+<p align="center">
+
+    <img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" />
+
+</p>
 * Languages - TypeScript, JavaScript
 * Backend - Node, Express, Feathers, RESTful API development, MVC architecture
 * Database - SQL, PostgreSQL, MySQL, Knex, Sequelize, Prisma
@@ -22,14 +28,16 @@
 * Workflow/Project Management - Jira, Confluence, Trello, Miro
 * Pair programming
 * Remote collaboration - Slack, Google Meet, Zoom, Discord
-* Direct client engagement - regular discussions with Head of Product/Product Owner, Product Managers, QA Engineers/Testers, Business Analysts and of course other Engineers 
+* Direct client engagement - regular discussions with Head of Product/Product Owner, Product Managers, QA Engineers/Testers, Business Analysts and of course other Engineers
 
 ### The Other Stuff
+
 When I'm not playing around with code, I like:
-* making silly faces at my baby daughter
-* making silly face at my cat
-* skateboarding
-* cooking
+
+- making silly faces at my baby daughter
+- making silly face at my cat
+- skateboarding
+- cooking
 
 <!--
 **samkaanaki/samkaanaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
