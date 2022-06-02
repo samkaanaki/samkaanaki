@@ -1,4 +1,4 @@
-## Hey world <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="15px" height="15px">
+## Hey world <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="24px" height="24x">
 
 
 ### The Present 
