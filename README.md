@@ -12,10 +12,10 @@
 
 <p align="center">
     <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="tech-icons/typescript.png" /></a>
-    <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="tech-icons/typescript.png" /></a>
+
 </p>
 
-- Languages - TypeScript, JavaScript
+- Languages - TypeScript, JavaScript </br>
   <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="tech-icons/typescript.png" /></a>
 - Backend - Node, Express, Feathers, RESTful API development, MVC architecture
 - Database - SQL, PostgreSQL, MySQL, Knex, Sequelize, Prisma
