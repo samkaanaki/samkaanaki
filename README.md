@@ -1,7 +1,7 @@
 ## Hey world 👋
 
 
-### 🎁 The Present
+### The Present 🎁
 * Working as a Software Engineer with Infinity Works (part of Accenture) in Leeds. I'm currently helping develop a flexible B2C financing product for a very well known MNC currently utilised by many established retailers.
 
 ### The Past
