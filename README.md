@@ -14,17 +14,20 @@
 
 </p>
 
-- Languages - TypeScript, JavaScript </br></br>
+- Languages - TypeScript, JavaScript </br>
   <a target=”_blank” href="https://www.typescriptlang.org/" title="TypeScript"><img src="tech-icons/typescript.png" /></a>
-  <a target=”_blank” href="https://www.typescriptlang.org/" title="JavaScript"><img src="tech-icons/javascript.png" /></a> </br></br>
+  <a target=”_blank” href="https://www.javascript.com/" title="JavaScript"><img src="tech-icons/javascript.png" /></a> </br></br>
+
 - Backend - Node, Express, Feathers, RESTful API development, MVC architecture
+
 - Database - SQL, PostgreSQL, MySQL, Knex, Sequelize, Prisma
 - Cloud - AWS (S3, Lambda, CloudWatch, CloudFormation, EC2, ECS, Cognito, RDS (PGQL))
 - Testing - Jest, SuperTest, Enzyme, React Testing Library, TDD
 - CI/CD - CircleCI
 - Containers - Docker, ECS
 - Frontend - React, MobX & MobX State Tree, Redux, Styled Components, HTML5, CSS3, Swagger UI, Atlaskit, UX-focussed design
-- Source/Version control - Git, GitHub, BitBucket
+- Source/Version control - Git, GitHub, Bitbucket </br>
+  <a target=”_blank” href="https://www.typescriptlang.org/" title="Bitbucket"><img src="tech-icons/bitbucket.svg" /></a> </br>
 - Agile: Kanban, Scrum, working to 2 week sprints, daily stand-ups (occasionally leading them)
 - Workflow/Project Management - Jira, Confluence, Trello, Miro
 - Pair programming
