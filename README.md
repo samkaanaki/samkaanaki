@@ -24,7 +24,8 @@
 
 - Database - SQL, PostgreSQL, MySQL, Knex, Sequelize, Prisma
 - Cloud - AWS (S3, Lambda, CloudWatch, CloudFormation, EC2, ECS, Cognito, RDS (PGQL))
-  <a target=”_blank” href="https://git-scm.com/" title="AWS"><img src="https://commons.wikimedia.org/wiki/File:Amazon_Web_Services_Logo.svg" /></a>
+
+  <a target=”_blank” href="https://git-scm.com/" title="AWS"><img src="tech-icons/aws-light.png" /></a>
 
 - Testing - Jest, SuperTest, Enzyme, React Testing Library, TDD
 - CI/CD - CircleCI
