@@ -24,25 +24,19 @@
 
 - Database - SQL, PostgreSQL, MySQL, Knex, Sequelize, Prisma
 - Cloud - AWS (S3, Lambda, CloudWatch, CloudFormation, EC2, ECS, Cognito, RDS (PGQL))
-  <a target=”_blank” href="https://git-scm.com/" title="AWS"><img src="https://commons.wikimedia.org/wiki/File:Amazon_Web_Services_Logo.svg" /></a></br>
+  <a target=”_blank” href="https://git-scm.com/" title="AWS"><img src="https://commons.wikimedia.org/wiki/File:Amazon_Web_Services_Logo.svg" /></a>
 - Testing - Jest, SuperTest, Enzyme, React Testing Library, TDD
 - CI/CD - CircleCI
 - Containers - Docker, ECS
-  </br>
   <a target=”_blank” href="https://git-scm.com/" title="Docker"><img src="tech-icons/docker.png" /></a></br>
 - Frontend - React, MobX & MobX State Tree, Redux, Styled Components, HTML5, CSS3, Swagger UI, Atlaskit, UX-focussed design
-  </br>
+
   <a target=”_blank” href="https://git-scm.com/" title="React"><img src="tech-icons/react.png" /></a>
   <a target=”_blank” href="https://git-scm.com/" title="CSS"><img height="36" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png"></a>
 
-  </br>
-
-- Source/Version control - Git, GitHub, Bitbucket </br>
+- Source/Version control - Git, GitHub, Bitbucket
   <a target=”_blank” href="https://git-scm.com/" title="Git"><img src="tech-icons/git.png" /></a>
   <a target=”_blank” href="https://github.com/" title="GitHub"><img src="tech-icons/github.png" /></a>
-  <a target=”_blank” href="https://git-scm.com/" title="Bitbucket"><img src="tech-icons/bitbucketpng.png" /></a>
-  </br>
-  </br>
 
 - Agile: Kanban, Scrum, working to 2 week sprints, daily stand-ups (occasionally leading them)
 - Workflow/Project Management - Jira, Confluence, Trello, Miro
