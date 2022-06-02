@@ -21,10 +21,10 @@
   </br>
 
 - Backend - Node, Express, Feathers, RESTful API development, MVC architecture
+  <a target=”_blank” href="https://git-scm.com/" title="Node"><img src="tech-icons/nodejs.png" /></a>
 
 - Database - SQL, PostgreSQL, MySQL, Knex, Sequelize, Prisma
 - Cloud - AWS (S3, Lambda, CloudWatch, CloudFormation, EC2, ECS, Cognito, RDS (PGQL))
-
   <a target=”_blank” href="https://git-scm.com/" title="AWS"><img src="tech-icons/aws-light.png" /></a>
 
 - Testing - Jest, SuperTest, Enzyme, React Testing Library, TDD
