@@ -33,6 +33,8 @@
   </br>
   <a target=”_blank” href="https://git-scm.com/" title="React"><img src="tech-icons/react.png" /></a>
   <a target=”_blank” href="https://git-scm.com/" title="CSS3"><img src="tech-icons/css3.png" /></a>
+  <a target=”_blank” href="https://git-scm.com/" title="CSS"><img height="30" src="https://raw.githubusercontent.com/samkaanaki/samkaanaki/main/tech-icons/css3.png"></a>
+  <img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png">
   </br>
 - Source/Version control - Git, GitHub, Bitbucket </br>
   <a target=”_blank” href="https://git-scm.com/" title="Git"><img src="tech-icons/git.png" /></a>
