@@ -30,7 +30,9 @@
 - Frontend - React, MobX & MobX State Tree, Redux, Styled Components, HTML5, CSS3, Swagger UI, Atlaskit, UX-focussed design
 - Source/Version control - Git, GitHub, Bitbucket </br>
   <a target=”_blank” href="https://git-scm.com/" title="Git"><img src="tech-icons/git.png" /></a>
-  <a target=”_blank” href="https://github.com/" title="GitHub"><img src="tech-icons/github.png" /></a> </br>
+  <a target=”_blank” href="https://github.com/" title="GitHub"><img src="tech-icons/github.png" /></a>
+  <a target=”_blank” href="https://git-scm.com/" title="Bitbucket"><img src="tech-icons/bitbucketpng.png" /></a>
+  </br>
   </br>
 
 - Agile: Kanban, Scrum, working to 2 week sprints, daily stand-ups (occasionally leading them)
