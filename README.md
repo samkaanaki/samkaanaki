@@ -10,39 +10,15 @@
 
 ### The Tech
 
-<p align="center">
-
-</p>
-
 - Languages - TypeScript, JavaScript
-  </br>
-  <a target=”_blank” href="https://www.typescriptlang.org/" title="TypeScript"><img src="tech-icons/typescript.png" /></a>
-  <a target=”_blank” href="https://www.javascript.com/" title="JavaScript"><img src="tech-icons/javascript.png" /></a>
-  </br>
-
 - Backend - Node, Express, Feathers, RESTful API development, MVC architecture
-  <a target=”_blank” href="https://git-scm.com/" title="Node"><img src="tech-icons/nodejs.png" /></a>
-
 - Database - SQL, PostgreSQL, MySQL, Knex, Sequelize, Prisma
 - Cloud - AWS (S3, Lambda, CloudWatch, CloudFormation, EC2, ECS, Cognito, RDS (PGQL))
-  <a target=”_blank” href="https://git-scm.com/" title="AWS"><img src="tech-icons/aws-light.png" /></a>
-
 - Testing - Jest, SuperTest, Enzyme, React Testing Library, TDD
 - CI/CD - CircleCI
 - Containers - Docker, ECS
-
-  <a target=”_blank” href="https://git-scm.com/" title="Docker"><img src="tech-icons/docker.png" /></a>
-
 - Frontend - React, MobX & MobX State Tree, Redux, Styled Components, HTML5, CSS3, Swagger UI, Atlaskit, UX-focussed design
-
-  <a target=”_blank” href="https://git-scm.com/" title="React"><img src="tech-icons/react.png" /></a>
-  <a target=”_blank” href="https://git-scm.com/" title="CSS"><img height="36" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png"></a>
-
 - Source/Version control - Git, GitHub, Bitbucket
-
-  <a target=”_blank” href="https://git-scm.com/" title="Git"><img src="tech-icons/git.png" /></a>
-  <a target=”_blank” href="https://github.com/" title="GitHub"><img src="tech-icons/github.png" /></a>
-
 - Agile - Kanban, Scrum, working to 2 week sprints, daily stand-ups (occasionally leading them)
 - Workflow/Project Management - Jira, Confluence, Trello, Miro
 - Pair programming
