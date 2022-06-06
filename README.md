@@ -30,7 +30,7 @@
 When I'm not playing around with code, I like:
 
 - making silly faces at my baby daughter
-- making silly face at my cat
+- making silly face at my baby cat
 - skateboarding
 - cooking
 
