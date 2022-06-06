@@ -1,8 +1,8 @@
-## Hey world <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="24px" height="24x">
+## Hey world <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="24px" height="24px">
 
 ### The Present
 
-- Working as a Software Engineer with Infinity Works (part of Accenture) in Leeds. I'm currently helping develop a flexible B2C financing product for a very well known MNC currently utilised by many established retailers.
+- I'm a Software Engineer with Infinity Works (part of Accenture) in Leeds. I'm currently helping develop a flexible B2C financing product for a very well known MNC currently utilised by many established retailers.
 
 ### The Past
 
