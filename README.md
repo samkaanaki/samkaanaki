@@ -2,7 +2,7 @@
 
 ### The Present
 
-- I'm a Software Engineer with Infinity Works (part of Accenture) in Leeds. I'm currently helping develop a flexible B2C financing product for a very well known MNC currently utilised by many established retailers.
+- I'm a Software Engineer with Infinity Works (part of Accenture) in Leeds. I'm currently helping build and run a cutting-edge digital product in the FinTech space for a very well known MNC that serves over one million daily customers.
 
 ### The Past
 
