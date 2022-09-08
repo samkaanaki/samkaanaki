@@ -12,6 +12,7 @@
 
 - Languages - TypeScript, JavaScript
 - Backend - Node, Express, Feathers, RESTful API development, MVC architecture
+- Scripting - Bash
 - Database - SQL, PostgreSQL, MySQL, Knex, Sequelize, Prisma
 - Cloud - AWS (S3, Lambda, CloudWatch, CloudFormation, EC2, ECS, Cognito, RDS, Serverless)
 - Testing - Jest, SuperTest, Enzyme, React Testing Library, TDD
