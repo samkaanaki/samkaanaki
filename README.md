@@ -2,7 +2,7 @@
 
 ### The Present
 
-- I'm a Software Engineer with Infinity Works (part of Accenture) in Leeds. I'm currently helping build and run a cutting-edge digital product in the FinTech space for a well known MNC that serves over one million daily customers.
+- I'm a Software Engineer (Senior Associate Consultant) with Infinity Works (part of Accenture) based in Leeds. I'm currently helping build and run a cutting-edge digital product in the FinTech space for a well known MNC that serves over one million daily customers.
 
 ### The Past
 
@@ -13,23 +13,23 @@
 - Languages - TypeScript, JavaScript
 - Backend - Node, Express, Feathers, RESTful API development, MVC architecture
 - Database - SQL, PostgreSQL, MySQL, Knex, Sequelize, Prisma
-- Cloud - AWS (S3, Lambda, CloudWatch, CloudFormation, EC2, ECS, Cognito, RDS)
+- Cloud - AWS (S3, Lambda, CloudWatch, CloudFormation, EC2, ECS, Cognito, RDS, Serverless)
 - Testing - Jest, SuperTest, Enzyme, React Testing Library, TDD
 - CI/CD - CircleCI
 - Containers - Docker, ECS
-- Frontend - React, MobX & MobX State Tree, Redux, Styled Components, HTML5, CSS3, Swagger UI, Atlaskit, UX-focussed design
+- Frontend - React, MobX & MobX State Tree, Redux, Styled Components, HTML5, CSS3, Swagger UI, Atlaskit, Chakra, Bulma
 - Source/Version control - Git, GitHub, Bitbucket
 - Agile - Kanban, Scrum, working to 2 week sprints, daily stand-ups (occasionally leading them)
 - Workflow/Project Management - Jira, Confluence, Trello, Miro
-- Pair programming
-- Remote collaboration - Slack, Google Meet, Zoom, Discord
-- Direct client engagement - regular discussions with Head of Product/Product Owner, Product Managers, QA Engineers/Testers, Business Analysts and of course other Engineers
+- Pair programming/Mob programming
+- Remote collaboration - Slack, Google Meet, Zoom, Discord, Teams
+- Direct client engagement - regular discussions with Head of Product/Product Owners/Product Managers, QA Engineers/Testers, Business Analysts and Developers
 
 ### The Other Stuff
 
 When I'm not playing around with code, I like:
 
-- making silly faces at my baby daughter
+- making silly faces at my daughter
 - making silly faces at my baby cat
 - skateboarding
 - cooking
