@@ -14,10 +14,11 @@
 - Backend - Node, Express, Feathers, RESTful API development, MVC architecture
 - Scripting - Bash
 - Database - SQL, PostgreSQL, MySQL, Knex, Sequelize, Prisma
-- Cloud - AWS (S3, Lambda, CloudWatch, CloudFormation, EC2, ECS, Cognito, RDS, Serverless)
+- Cloud - AWS (S3, Lambda, CloudWatch, CloudFormation, EC2, ECS, Cognito, RDS, DynamoDB, Serverless)
 - Testing - Jest, SuperTest, Enzyme, React Testing Library, TDD
 - CI/CD - CircleCI
-- Containers - Docker, ECS
+- Infrastructure as code (IaC) - CloudFormation, CDK
+- Containerisation - Docker, ECS
 - Frontend - React, MobX & MobX State Tree, Redux, Styled Components, HTML5, CSS3, Swagger UI, Atlaskit, Chakra, Bulma
 - Source/Version control - Git, GitHub, Bitbucket
 - Agile - Kanban, Scrum, working to 2 week sprints, daily stand-ups (occasionally leading them)
@@ -31,7 +32,7 @@
 When I'm not playing around with code, I like:
 
 - making silly faces at my daughter
-- making silly faces at my baby cat
+- making silly faces at my cat
 - skateboarding
 - cooking
 
