@@ -2,7 +2,7 @@
 
 ### The Present
 
-- I'm a Software Engineer (Senior Associate Consultant) with Infinity Works (part of Accenture) based in Leeds. I'm currently helping build and run a cutting-edge digital product in the FinTech space for a well known MNC that serves over one million daily customers.
+- I'm a Software Engineer (Full Stack Engineering Senior Analyst) with Accenture. I'm currently helping build and run a cutting-edge digital product in the FinTech space for a well known MNC that serves over one million daily customers.
 
 ### The Past
 
@@ -16,12 +16,12 @@
 - Database - SQL, PostgreSQL, MySQL, Knex, Sequelize, Prisma
 - Cloud - AWS (S3, Lambda, CloudWatch, CloudFormation, EC2, ECS, Cognito, RDS, DynamoDB, Serverless)
 - Testing - Jest, SuperTest, Enzyme, React Testing Library, TDD
-- CI/CD - CircleCI
+- CI/CD - CircleCI, Bitbucket Pipelines
 - Infrastructure as code (IaC) - CloudFormation, CDK
 - Containerisation - Docker, ECS
 - Frontend - React, MobX & MobX State Tree, Redux, Styled Components, HTML5, CSS3, Swagger UI, Atlaskit, Chakra, Bulma
 - Source/Version control - Git, GitHub, Bitbucket
-- Agile - Kanban, Scrum, working to 2 week sprints, daily stand-ups (occasionally leading them)
+- Agile - Kanban, Scrum
 - Workflow/Project Management - Jira, Confluence, Trello, Miro
 - Pair programming/Mob programming
 - Remote collaboration - Slack, Google Meet, Zoom, Discord, Teams
