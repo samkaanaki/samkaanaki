@@ -6,7 +6,8 @@
 
 ### The Past
 
-- I successfully completed the renowned Northcoders full stack development bootcamp at the start of 2021. During my time I gained hands-on experience with JavaScript, Node, React, SQL, PostgreSQL, Express, Knex (ORM), Jest, SuperTest, HTML5, CSS3, RESTful API development, Git/GitHub and development best practices like Pair Programming and TDD.
+- I successfully completed the renowned Northcoders full stack development bootcamp at the start of 2021. During my time I gained hands-on experience with JavaScript, Node, React, SQL, PostgreSQL, Express, Knex, Jest, SuperTest, HTML5, CSS3, RESTful API development, Git/GitHub and development best practices like Pair Programming and TDD.
+- I then went on to work for a software house in Leeds developing a product for an end client in the sports betting and media space.
 
 ### The Tech
 
